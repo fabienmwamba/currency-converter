@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CurrencyConverter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.10.
@@ -29,4 +29,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # currency-converter
 Simple angular currency converter project
->>>>>>> d8a4c0bcc52ba6abc146a959c3625c166e85becd
